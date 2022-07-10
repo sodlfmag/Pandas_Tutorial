@@ -5,6 +5,6 @@ data = {
     'oranges' : [0,3,7,2]
 }
 
-purchases = pd.DataFrame(data)
+purchases = pd.DataFrame(data, index =['June', 'Robert', 'Lily' , 'David'])
 
-print(purchases)
+print(purchases.loc['June'])
