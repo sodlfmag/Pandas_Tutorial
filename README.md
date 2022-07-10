@@ -1,4 +1,4 @@
 # Pandas_Tutorial
 
-This is source codes for pandas learning<br>
+This repo is for learning Pandas<br>
 Materials are from https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
